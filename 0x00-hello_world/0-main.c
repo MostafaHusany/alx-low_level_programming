@@ -7,5 +7,8 @@
  */
 int main(void)
 {
-   	return (0);
+char z[100] = "I am learning C programming language.";
+
+   printf("%s", z); // %s is format specifier 
+	return (0);
 }
