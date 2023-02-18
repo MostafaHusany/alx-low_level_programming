@@ -733,8 +733,5 @@ extern int __overflow (FILE *, int);
 # 8 "0-main.c"
 int main(void)
 {
- char z[100] = "I am learning C programming language.";
-
-    printf("%s", z);
     return (0);
 }
