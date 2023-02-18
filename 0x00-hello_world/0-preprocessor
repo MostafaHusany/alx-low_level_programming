@@ -1,2 +1,2 @@
 #!/bin/bash
-`gcc -E main.c -o temp.e`
+`gcc -E $CFILE -o temp.e`
